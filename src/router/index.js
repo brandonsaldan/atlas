@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import Projects from '../views/Projects.vue'
 import Blog from '../views/Blog.vue'
+import MobileNav from '../views/MobileNav.vue'
 
 const routes = [
   {
@@ -18,6 +19,11 @@ const routes = [
     path: '/blog',
     name: 'Blog',
     component: Blog
+  },
+  {
+    path: '/mobilenav',
+    name: 'MobileNav',
+    component: MobileNav
   },
 ]
 

@@ -14,7 +14,7 @@
                       <div class="space-y-5 xl:col-span-3">
                         <div class="space-y-6">
                           <div>
-                            <h2 class="text-2xl font-bold leading-8 tracking-tight">
+                            <h2>
                               <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">No posts yet, check again later!</p>
                             </h2>
                           </div>
