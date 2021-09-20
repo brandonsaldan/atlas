@@ -1,19 +1,13 @@
-# atlas-new
+# atlas
 
-## Project setup
-```
-npm install
-```
+#### 📰 personal website built with vue.js and tailwind
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Attributions
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- #### [Vue.js](https://vuejs.org)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- #### [TailwindCSS](https://tailwindcss.com)
+
+- #### [Vercel](https://vercel.com)
+
+- #### [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
