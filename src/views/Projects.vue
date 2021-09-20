@@ -7,67 +7,69 @@
             <div class="pt-6 pb-8 space-y-2 md:space-y-5">
               <h1 class="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">Projects</h1>
             </div>
-            <ul class="ulc divide-y divide-gray-200 dark:divide-gray-700">
+            <ul class="divide-y divide-gray-200 dark:divide-gray-700">
                 <li class="py-12">
 
                   <div class="flex flex-wrap">
 
-                    <!-- Column -->
-
-                    <div class="rounded-lg px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-                      <div class="projects" id="work_section">
-                        <a href="https://github.com/brandonsaldan/fox" target="_blank">
-                        <section>
-                        <div class="section_title">fox</div>
-                          <div class="about_section">
-                            <span style="display:block;">🦊 social media username scraping discord bot</span>
+                    <div class="">
+                      <div class="flex flex-wrap -m-4">
+                        <div class="p-4 md:w-1/2 md" style="max-width: 544px;">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/fox" aria-label="link">
+                            </a>
+                            <div class="p-6">
+                            <h2 class="mb-3 text-2xl font-bold leading-8 tracking-tight">
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/fox" aria-label="link">fox</a>
+                            </h2>
+                            <p class="mb-3 prose text-gray-500 max-w-none dark:text-gray-400">🦊 social media username scraping discord bot</p>
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/fox" class="text-base font-medium leading-6 text-primary-500 hover:text-primary-600 dark:hover:text-primary-400" aria-label="link">github →</a>
+                            </div>
                           </div>
-                        </section>
-                        </a>
-                      </div>
-                    </div>
-
-                    <div class="rounded-lg w-full md:w-1/2 lg:w-1/2">
-                      <div class="projects" id="work_section">
-                        <a href="https://github.com/brandonsaldan/atlas" target="_blank">
-                        <section>
-                        <div class="section_title">atlas</div>
-                          <div class="about_section">
-                            <span style="display:block;">📰 personal website built with vue.js and tailwind</span>
+                        </div>
+                        <div class="p-4 md:w-1/2 md" style="max-width: 544px;">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/atlas" aria-label="link">
+                            </a>
+                            <div class="p-6">
+                            <h2 class="mb-3 text-2xl font-bold leading-8 tracking-tight">
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/atlas" aria-label="link">atlas</a>
+                            </h2>
+                            <p class="mb-3 prose text-gray-500 max-w-none dark:text-gray-400">📰 personal website built with vue.js and tailwind</p>
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/atlas" class="text-base font-medium leading-6 text-primary-500 hover:text-primary-600 dark:hover:text-primary-400" aria-label="link">github →</a>
+                            </div>
                           </div>
-                        </section>
-                        </a>
-                      </div>
-                    </div>
-
-                    <div class="rounded-lg w-full md:w-1/2 lg:w-1/3">
-                      <div class="projects" id="work_section">
-                        <a href="https://github.com/brandonsaldan/ticker" target="_blank">
-                        <section>
-                        <div class="section_title">ticker</div>
-                          <div class="about_section">
-                            <span style="display:block;">💸 stock and cryptocurrency discord bot</span>
+                        </div>
+                        <div class="p-4 md:w-1/2 md" style="max-width: 544px;">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/ticker" aria-label="link">
+                            </a>
+                            <div class="p-6">
+                            <h2 class="mb-3 text-2xl font-bold leading-8 tracking-tight">
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/ticker" aria-label="link">ticker</a>
+                            </h2>
+                            <p class="mb-3 prose text-gray-500 max-w-none dark:text-gray-400">💸 stock and cryptocurrency discord bot</p>
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/ticker" class="text-base font-medium leading-6 text-primary-500 hover:text-primary-600 dark:hover:text-primary-400" aria-label="link">github →</a>
+                            </div>
                           </div>
-                        </section>
-                        </a>
-                      </div>
-                    </div>
-
-                    <div class="rounded-lg w-full md:w-1/2 lg:w-1/3">
-                      <div class="projects" id="work_section">
-                        <a href="https://github.com/brandonsaldan/mockingbird" target="_blank">
-                        <section>
-                        <div class="section_title">mockingbird</div>
-                          <div class="about_section">
-                            <span style="display:block;">🐦tweet tweet (watch this space, coming soon)</span>
+                        </div>
+                        <div class="p-4 md:w-1/2 md" style="max-width: 544px;">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/mockingbird" aria-label="link">
+                            </a>
+                            <div class="p-6">
+                            <h2 class="mb-3 text-2xl font-bold leading-8 tracking-tight">
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/mockingbird" aria-label="link">mockingbird</a>
+                            </h2>
+                            <p class="mb-3 prose text-gray-500 max-w-none dark:text-gray-400">🐦tweet tweet (watch this space, coming soon)</p>
+                              <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/mockingbird" class="text-base font-medium leading-6 text-primary-500 hover:text-primary-600 dark:hover:text-primary-400" aria-label="link">github →</a>
+                            </div>
                           </div>
-                        </section>
-                        </a>
+                        </div>
                       </div>
-                    </div>
-
-                  </div>           
-                </li>
+                  </div>
+                </div>           
+              </li>
             </ul>
           </div>
         </main>
