@@ -69,3 +69,7 @@ a {
     background-position: 50%;
     background-size: 1em 1em;
 }
+
+html {
+    background-color: #121212;
+}
