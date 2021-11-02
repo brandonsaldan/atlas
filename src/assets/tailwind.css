@@ -68,6 +68,7 @@ a {
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 1em 1em;
+    animation-delay: 0.5s;
 }
 
 html {

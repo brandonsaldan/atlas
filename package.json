@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.2.14",
+    "animate.css": "^4.1.1",
     "autoprefixer": "^9.8.6",
     "core-js": "^3.6.5",
     "postcss": "^7.0.36",
