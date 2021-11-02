@@ -1,5 +1,5 @@
 <template>
-    <div class="fixed w-full h-full top-24 right-0">
+    <div class="fixed w-full h-full top-24 right-0 animate__animated animate__fadeIn">
         <button type="button" aria-label="toggle modal" class="fixed w-full h-full cursor-auto focus:outline-none">
         </button>
         <nav class="fixed h-full mt-8">
