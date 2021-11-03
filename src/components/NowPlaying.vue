@@ -35,6 +35,11 @@
       },
       startPolling() {
         this.fetch();
+        window.setTimeout(() => {
+          window.requestAnimationFrame(() => {
+              this.startPolling();
+          });
+        }, 2500);
       },
       async fetch() {
         if(!this.username) {
