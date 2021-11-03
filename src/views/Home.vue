@@ -10,6 +10,7 @@
                 <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">My name is <a>Brandon Saldan</a>. I'm a business and computer science student from Pennsylvania.<br>I'm a freshman in college majoring in business administration with plans to finish my bachelor's degree in product management and (hopefully) complete an MBA.</p>
                 <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">Outside of school, I'm either working at <a href="https://invii.io/" style="display: inline">Invii</a>, coding, or trying to get my foot in the door at a venture capital firm.</p>
                 <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">I'm always looking for work! If you're interested in receiving a copy of my resume, you can email me <a href="mailto:brandonmsaldan@gmail.com" style="display: inline">here</a>, or get in touch with me on <a href="https://linkedin.com/brandonsaldan/" style="display: inline">LinkedIn.</a></p>
+                <now-playing></now-playing>
               </div>
             </div>
           </main>
@@ -20,10 +21,12 @@
 </template>
 
 <script>
+import NowPlaying from "../components/NowPlaying.vue"
 
 export default {
   name: 'Home',
   components: {
+    NowPlaying
   }
 }
 </script>
