@@ -15,7 +15,7 @@
                     <div class="">
                       <div class="flex flex-wrap -m-4">
                         <div class="p-4 md:w-1/2 md animate__animated animate__fadeInUp" style="max-width: 544px;">
-                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-lg border-opacity-60 dark:border-gray-700">
                             <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/fox" aria-label="link">
                             </a>
                             <div class="p-6">
@@ -28,7 +28,7 @@
                           </div>
                         </div>
                         <div class="p-4 md:w-1/2 md animate__animated animate__fadeInUp" style="max-width: 544px;">
-                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-lg border-opacity-60 dark:border-gray-700">
                             <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/atlas" aria-label="link">
                             </a>
                             <div class="p-6">
@@ -41,7 +41,7 @@
                           </div>
                         </div>
                         <div class="p-4 md:w-1/2 md animate__animated animate__fadeInUp" style="max-width: 544px;">
-                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-lg border-opacity-60 dark:border-gray-700">
                             <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/ticker" aria-label="link">
                             </a>
                             <div class="p-6">
@@ -54,7 +54,7 @@
                           </div>
                         </div>
                         <div class="p-4 md:w-1/2 md animate__animated animate__fadeInUp" style="max-width: 544px;">
-                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-md border-opacity-60 dark:border-gray-700">
+                          <div class="h-full overflow-hidden border-2 border-gray-200 rounded-lg border-opacity-60 dark:border-gray-700">
                             <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonsaldan/mockingbird" aria-label="link">
                             </a>
                             <div class="p-6">
